@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+sentence-transformers
+streamlit
+docx2txt
+python-pptx
+Pillow
+llama-parse
+llama-index-readers-file
+python-dotenv
